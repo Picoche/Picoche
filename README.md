@@ -3,7 +3,7 @@
   ⚡ My skills :
   
   - ## HTML, CSS, JS
-  - ## SASS, PHP, React (soon) 
+  - ## SASS, PHP, mySQL React (soon) 
 
 
 
