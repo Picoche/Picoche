@@ -5,6 +5,8 @@
   - ## HTML, CSS, JS
   - ## SASS, PHP, mySQL, React (soon) 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Picoche)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
