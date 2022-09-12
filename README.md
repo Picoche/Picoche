@@ -1,4 +1,4 @@
-### Hey there 👋, my name is Fabien Hombert, an aspiring web developer.
+### Hey there 👋, my name is Fabien Hombert, an aspiring web developer from France.
 
   ⚡ My skills :
   
