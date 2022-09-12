@@ -1,6 +1,6 @@
 ### Hey there 👋, my name is Fabien Hombert, an aspiring web developer.
 
-  ###⚡ My skills :
+  ##⚡ My skills :
   
   - ## HTML, CSS, JS
   - ## SASS, PHP, React (soon) 
