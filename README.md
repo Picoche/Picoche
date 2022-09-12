@@ -1,8 +1,9 @@
-### Bonjour 👋, je m'appelle Hombert Fabien, et je suis un développeur web en herbe !
+### Hey there 👋, my name is Fabien Hombert, an aspiring web developer.
 
-  ⚡ Mes compétences :
-  - ### HTML, CSS, JS, React (soon)
-  - ### SASS, React, PHP 
+  ###⚡ My skills :
+  
+  - ## HTML, CSS, JS
+  - ## SASS, PHP, React (soon) 
 
 
 
