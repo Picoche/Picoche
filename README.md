@@ -1,4 +1,10 @@
-### Hi there 👋
+### Bonjour 👋, je m'appelle Hombert Fabien, et je suis un développeur web en herbe !
+
+  ⚡ Mes compétences :
+  - ### HTML, CSS, JS, React (soon)
+  - ### SASS, React, PHP 
+
+
 
 <!--
 **Picoche/Picoche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
