@@ -1,6 +1,6 @@
-### Hey there 👋, my name is Fabien Hombert, an aspiring web developer from France.
+### Bonjour 👋, Je m'appelle Fabien Hombert, étudiant de 2ème année en développement web.
 
-  ⚡ My skills :
+  ⚡ Mes compétences :
   
   - ## HTML, CSS, JS, PHP, mySQL
   - ## SASS, React, Bootstrap, Tailwind, Laravel 
