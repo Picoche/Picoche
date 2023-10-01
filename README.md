@@ -2,8 +2,8 @@
 
   ⚡ Mes compétences :
   
-  - ## HTML, CSS, JS, PHP, mySQL
-  - ## SASS, React, Bootstrap, Tailwind, Laravel 
+  - ## HTML, CSS, JS/X, TS/X, PHP, mySQL
+  - ## SASS, Bootstrap, Tailwind, Laravel, Symfony, React, NextJS 13
 
 
 
