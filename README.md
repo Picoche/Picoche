@@ -1,4 +1,4 @@
-### Bonjour 👋, Je m'appelle Fabien Hombert, étudiant de 2ème année en développement web.
+### Bonjour 👋, Je m'appelle Fabien Hombert, étudiant de 3ème année en développement web.
 
   ⚡ Mes compétences :
   
