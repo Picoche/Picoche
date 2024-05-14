@@ -2,8 +2,8 @@
 
   ⚡ Mes compétences :
   
-  - ## HTML, CSS, JS/X, TS/X, PHP, mySQL
-  - ## SASS, Bootstrap, Tailwind, Laravel, Symfony, React, NextJS 13 
+  - ## HTML, CSS, JS/X, TS/X, PHP, MySQL, PostgreSQL, noSQL
+  - ## SASS, Bootstrap, Tailwind, Laravel, Symfony, React, NextJS 14 
     <a href="https://app.daily.dev/picoche"><img src="https://api.daily.dev/devcards/1d882aa8a8d64bf283148fcab5054188.png?r=zsl" width="400" alt="Fabien Hombert's Dev Card"/></a>
 
 
