@@ -2,7 +2,7 @@
 
   ⚡ Mes compétences :
   
-  - ## HTML, CSS, JS/X, TS/X, PHP, MySQL, PostgreSQL, noSQL
+  - ## HTML, CSS, JS/X, TS/X, NodeJS, PHP, MySQL, PostgreSQL, noSQL
   - ## SASS, Bootstrap, Tailwind, Laravel, Symfony, React/Native, NextJS 13+, Wasp
   - ## MongoDB, Docker, Linux
     <a href="https://app.daily.dev/picoche"><img src="https://api.daily.dev/devcards/v2/1EeMMaU1a8K18KKAzhwV4.png?type=wide&r=6aa" width="652" alt="Fabien Hombert's Dev Card"/></a>
